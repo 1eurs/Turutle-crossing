@@ -1,2 +1,2 @@
 # Turutle-crossing
-turtle crossing game using turtle
+turtle crossing game oop using turtle
